@@ -1,0 +1,24 @@
+So the thing is commiting and pushing something in linux terminal is easy rather than in a windows git bash terminal.
+I faced so many problems in windows but it is so much easy with linux
+but i haven't tried a command which is given by github in windows which may caused that problem that command is "git branch -M main" then "git push -u origin main"
+so these are the command we have to use to push to the repository
+I will try these in windows and get back to linux and i will put these in a new repository on github.
+but anyways LINUX IS FAR FAR BETTER THAN WINDOWS!!!
+
+Next day...
+
+So fun fact Windows is useless, its shit for sure.
+That command that I used in linux the other day didn't work in windows still showing error.
+so basically we cannot commit and push anything through gitbash terminal in windows we have to go to the repository and click on ADD FILE and there we can drag and drop our files and down there is a commit button you press it.
+then it will automatically push those files into your repository.
+NOTE: also we cannot drag and drop more than one folder, sometimes it'll show error and sometimes it'll not.
+I don't know whats wrong with windows.
+I know its user friendly and I know some of you will find the drag and drop option easy to use but sometimes it will show errors.
+I personally find terminal method easy to use.
+
+Now i will push this .txt through linux terminal only.
+
+OK so listen, I take my words back the thing is this is the day I supposed to push this in github through linux terminal but today i also had my MIcrosoft Azure Hackathon in which I was working with GitHub Copilot.
+so there i learned that whenever we apply any kind of liscence to our repository we cannot push our files with those reular commands of git commit and push it may be pushed by some other commands, as soon as i got to know what is the command I'll update this repository until then if liscence is applied just drag and drop the file it works in every OS.
+From my every Public repository some have the liscence and some are regular so the ones with the liscence are those who are creating those error and making me crazy.
+so yeah this was the problem. keep going folks don't stop

@@ -1,0 +1,14 @@
+This is my first file to be pushed and commit in my porfolio repository
+fun fact that while doing git init it will show error if the name of the folder was not the same as the name of the repository
+so this is my second time trying to push something to the repsitory
+lets do this
+so here is an update that the first time i tried was also correct the only fault was my brain lol.
+so .git file was a hidden file so to see in linux you have to press ctrl+h to unhide the file
+its not necessary to always see the .git file but just to confirm that our git is initailized or not
+so its done
+another thing...
+while pushing, now git doesn't accept the normal password you have to generate token from github website account
+go to your github account and go to the settings then go to the developers settings then goo to personal access token
+then generate one token copy the link of the token and while pushing when git asks for password paste that into the password
+here you go it'll work for sure
+and to update something, basically if you changed something in your file and you want that it should be done in my github repository also then you have to start from adding that file than commit it then push it.

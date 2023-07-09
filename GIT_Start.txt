@@ -13,3 +13,4 @@ then generate one token copy the link of the token and while pushing when git as
 here you go it'll work for sure
 and to update something, basically if you changed something in your file and you want that it should be done in my github repository also then you have to start from adding that file than commit it then push it.
 Git pull command is used to pull a repository
+git branch will make a new branch and benifit of branching is that until you merge each branch will contain different updated content and if you merge the branches then it will update the content

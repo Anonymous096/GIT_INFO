@@ -22,3 +22,14 @@ OK so listen, I take my words back the thing is this is the day I supposed to pu
 so there i learned that whenever we apply any kind of liscence to our repository we cannot push our files with those reular commands of git commit and push it may be pushed by some other commands, as soon as i got to know what is the command I'll update this repository until then if liscence is applied just drag and drop the file it works in every OS.
 From my every Public repository some have the liscence and some are regular so the ones with the liscence are those who are creating those error and making me crazy.
 so yeah this was the problem. keep going folks don't stop
+
+If you update something in your github repo and you are updating it directly by github, like uploading a file there directly or making changes in the the readme.md file directly then if you try to commit and push the changes in the main file using gitbash CLI then it will throw an error. To solve this you can do two things:
+1) You can fetch and merge the files the command are: 
+	step-1: git fetch origin
+	step-2: git merge origin/main
+	step-3: git commit -m "commit"
+	step-4: git push -u origin main
+2) You can use pull command because it is the combination of fetch and merge, the command is:
+	step-1: git pull origin
+	step-2: git commit -m "commit"
+	step-3: git push -u origin main
